@@ -17,7 +17,7 @@ Steps to Simulate Project
 
 Clone the repository or download the script file:
 
-git clone [repository_url]
+git clone https://github.com/bharathgandoor/Pong.git
 
 # 2. Run the Game
 
